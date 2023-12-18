@@ -1,12 +1,11 @@
-## Hi there 👋
+# Mazegram
 
-<!--
+## Overview
+Mazegram is an innovative messaging app that redefines the way we communicate by introducing the ability to send timed messages, custom theme-based effects, and interactive maze challenges. This project aims to provide a unique and engaging user experience, differentiating itself from traditional instant messaging apps.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Features
+- **Timed Message Delivery**: Schedule messages to be opened at a specific time.
+- **Custom Themes & Effects**: Choose from a variety of themes for special occasions, with unique visual effects.
+- **Maze Challenges**: Send messages with a maze puzzle that recipients need to solve to view the message.
+- **Anonymity Options**: Send messages without revealing your identity.
+- **Enhanced Security**: Ensure privacy and security with end-to-end encryption.
